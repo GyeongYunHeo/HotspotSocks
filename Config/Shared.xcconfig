@@ -1,0 +1,8 @@
+// 저장소에 공개해도 되는 공통 기본값입니다.
+HOTSPOTSOCKS_BUNDLE_IDENTIFIER = com.example.HotspotSocks
+HOTSPOTSOCKS_DEVELOPMENT_TEAM =
+
+// 개인 Team ID와 번들 식별자는 Git에서 제외된 파일에서 덮어씁니다.
+#include? "Local.xcconfig"
+
+DEVELOPMENT_TEAM = $(HOTSPOTSOCKS_DEVELOPMENT_TEAM)

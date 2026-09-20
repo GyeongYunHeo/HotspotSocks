@@ -1,0 +1,7 @@
+* text=auto
+*.swift text eol=lf
+*.md text eol=lf
+*.xcconfig text eol=lf
+*.pbxproj text eol=lf
+*.png binary
+*.xcassets/Contents.json text eol=lf

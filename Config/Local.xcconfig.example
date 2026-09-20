@@ -1,0 +1,4 @@
+// 이 파일을 Local.xcconfig로 복사한 뒤 자신의 값으로 변경하세요.
+// Local.xcconfig는 .gitignore에 포함되어 GitHub에 올라가지 않습니다.
+HOTSPOTSOCKS_BUNDLE_IDENTIFIER = com.example.HotspotSocks
+HOTSPOTSOCKS_DEVELOPMENT_TEAM = YOUR_TEAM_ID
